@@ -1,0 +1,21 @@
+Interviewee_ID,Group,Region,negative,positive,Net_Sentiment,Afinn_Score
+CCU1,Cryptocurrency Users,India,36,59,23,43
+CCU10,Cryptocurrency Users,India,21,53,32,60
+CCU2,Cryptocurrency Users,UK,24,47,23,31
+CCU3,Cryptocurrency Users,UAE,41,50,9,26
+CCU4,Cryptocurrency Users,India,45,58,13,46
+CCU5,Cryptocurrency Users,UK,33,34,1,40
+CCU6,Cryptocurrency Users,UAE,29,43,14,40
+CCU7,Cryptocurrency Users,India,42,51,9,-7
+CCU8,Cryptocurrency Users,UK,44,47,3,13
+CCU9,Cryptocurrency Users,UAE,25,54,29,43
+REP1,Real Estate Professionals,India,40,88,48,56
+REP10,Real Estate Professionals,UK,18,29,11,68
+REP2,Real Estate Professionals,UAE,35,89,54,86
+REP3,Real Estate Professionals,India,30,72,42,50
+REP4,Real Estate Professionals,UK,47,84,37,101
+REP5,Real Estate Professionals,UAE,26,55,29,44
+REP6,Real Estate Professionals,UK,16,79,63,93
+REP7,Real Estate Professionals,UAE,14,55,41,67
+REP8,Real Estate Professionals,India,22,50,28,54
+REP9,Real Estate Professionals,UAE,19,34,15,70

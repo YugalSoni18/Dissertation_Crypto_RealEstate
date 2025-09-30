@@ -1,0 +1,121 @@
+Interviewee_ID,Group,Region,Afinn_Score,negative,positive,Net_Sentiment,Theme
+CCU1,Cryptocurrency Users,India,4,2,5,3,Regulations
+CCU10,Cryptocurrency Users,India,0,1,1,0,Regulations
+CCU2,Cryptocurrency Users,UK,5,1,4,3,Regulations
+CCU3,Cryptocurrency Users,UAE,2,2,4,2,Regulations
+CCU4,Cryptocurrency Users,India,3,5,5,0,Regulations
+CCU5,Cryptocurrency Users,UK,6,2,4,2,Regulations
+CCU6,Cryptocurrency Users,UAE,5,4,7,3,Regulations
+CCU7,Cryptocurrency Users,India,0,2,6,4,Regulations
+CCU8,Cryptocurrency Users,UK,-5,6,6,0,Regulations
+CCU9,Cryptocurrency Users,UAE,6,3,5,2,Regulations
+REP1,Real Estate Professionals,India,8,5,9,4,Regulations
+REP10,Real Estate Professionals,UK,9,2,7,5,Regulations
+REP2,Real Estate Professionals,UAE,14,3,8,5,Regulations
+REP3,Real Estate Professionals,India,-2,5,5,0,Regulations
+REP4,Real Estate Professionals,UK,3,6,9,3,Regulations
+REP5,Real Estate Professionals,UAE,2,3,9,6,Regulations
+REP6,Real Estate Professionals,UK,6,1,8,7,Regulations
+REP7,Real Estate Professionals,UAE,9,2,4,2,Regulations
+REP8,Real Estate Professionals,India,18,1,8,7,Regulations
+REP9,Real Estate Professionals,UAE,9,2,5,3,Regulations
+CCU1,Cryptocurrency Users,India,-13,12,5,-7,Risks
+CCU10,Cryptocurrency Users,India,-8,5,5,0,Risks
+CCU2,Cryptocurrency Users,UK,-2,6,8,2,Risks
+CCU3,Cryptocurrency Users,UAE,-14,12,2,-10,Risks
+CCU4,Cryptocurrency Users,India,-4,10,4,-6,Risks
+CCU5,Cryptocurrency Users,UK,-4,6,3,-3,Risks
+CCU6,Cryptocurrency Users,UAE,-13,11,4,-7,Risks
+CCU7,Cryptocurrency Users,India,-13,11,2,-9,Risks
+CCU8,Cryptocurrency Users,UK,-17,15,3,-12,Risks
+CCU9,Cryptocurrency Users,UAE,5,6,6,0,Risks
+REP1,Real Estate Professionals,India,3,2,7,5,Risks
+REP10,Real Estate Professionals,UK,13,0,2,2,Risks
+REP2,Real Estate Professionals,UAE,21,1,11,10,Risks
+REP3,Real Estate Professionals,India,9,2,6,4,Risks
+REP4,Real Estate Professionals,UK,8,4,10,6,Risks
+REP5,Real Estate Professionals,UAE,11,0,6,6,Risks
+REP6,Real Estate Professionals,UK,5,1,5,4,Risks
+REP7,Real Estate Professionals,UAE,4,0,3,3,Risks
+REP8,Real Estate Professionals,India,4,1,5,4,Risks
+REP9,Real Estate Professionals,UAE,11,1,1,0,Risks
+CCU1,Cryptocurrency Users,India,7,8,11,3,Trust
+CCU10,Cryptocurrency Users,India,4,5,9,4,Trust
+CCU2,Cryptocurrency Users,UK,8,7,11,4,Trust
+CCU3,Cryptocurrency Users,UAE,-4,9,8,-1,Trust
+CCU4,Cryptocurrency Users,India,1,11,13,2,Trust
+CCU5,Cryptocurrency Users,UK,3,9,8,-1,Trust
+CCU6,Cryptocurrency Users,UAE,3,6,7,1,Trust
+CCU7,Cryptocurrency Users,India,7,3,9,6,Trust
+CCU8,Cryptocurrency Users,UK,4,8,7,-1,Trust
+CCU9,Cryptocurrency Users,UAE,-1,5,7,2,Trust
+REP1,Real Estate Professionals,India,23,3,14,11,Trust
+REP10,Real Estate Professionals,UK,7,3,4,1,Trust
+REP2,Real Estate Professionals,UAE,24,3,15,12,Trust
+REP3,Real Estate Professionals,India,5,3,8,5,Trust
+REP4,Real Estate Professionals,UK,18,5,11,6,Trust
+REP5,Real Estate Professionals,UAE,9,4,9,5,Trust
+REP6,Real Estate Professionals,UK,11,1,7,6,Trust
+REP7,Real Estate Professionals,UAE,16,0,10,10,Trust
+REP8,Real Estate Professionals,India,7,3,4,1,Trust
+REP9,Real Estate Professionals,UAE,16,1,7,6,Trust
+CCU1,Cryptocurrency Users,India,3,4,4,0,Benefits
+CCU10,Cryptocurrency Users,India,7,2,5,3,Benefits
+CCU2,Cryptocurrency Users,UK,2,2,4,2,Benefits
+CCU3,Cryptocurrency Users,UAE,7,4,7,3,Benefits
+CCU4,Cryptocurrency Users,India,3,3,4,1,Benefits
+CCU5,Cryptocurrency Users,UK,-1,3,4,1,Benefits
+CCU6,Cryptocurrency Users,UAE,1,2,4,2,Benefits
+CCU7,Cryptocurrency Users,India,-1,0,4,4,Benefits
+CCU8,Cryptocurrency Users,UK,4,2,2,0,Benefits
+CCU9,Cryptocurrency Users,UAE,6,1,6,5,Benefits
+REP1,Real Estate Professionals,India,5,4,6,2,Benefits
+REP10,Real Estate Professionals,UK,0,2,1,-1,Benefits
+REP2,Real Estate Professionals,UAE,13,1,3,2,Benefits
+REP3,Real Estate Professionals,India,8,2,9,7,Benefits
+REP4,Real Estate Professionals,UK,9,1,6,5,Benefits
+REP5,Real Estate Professionals,UAE,5,0,3,3,Benefits
+REP6,Real Estate Professionals,UK,11,0,7,7,Benefits
+REP7,Real Estate Professionals,UAE,4,0,3,3,Benefits
+REP8,Real Estate Professionals,India,5,0,2,2,Benefits
+REP9,Real Estate Professionals,UAE,3,NA,NA,NA,Benefits
+CCU1,Cryptocurrency Users,India,14,1,6,5,Future
+CCU10,Cryptocurrency Users,India,14,0,7,7,Future
+CCU2,Cryptocurrency Users,UK,3,3,4,1,Future
+CCU3,Cryptocurrency Users,UAE,9,3,8,5,Future
+CCU4,Cryptocurrency Users,India,5,3,5,2,Future
+CCU5,Cryptocurrency Users,UK,13,3,3,0,Future
+CCU6,Cryptocurrency Users,UAE,9,2,3,1,Future
+CCU7,Cryptocurrency Users,India,5,4,8,4,Future
+CCU8,Cryptocurrency Users,UK,9,0,6,6,Future
+CCU9,Cryptocurrency Users,UAE,10,3,9,6,Future
+REP1,Real Estate Professionals,India,1,5,8,3,Future
+REP10,Real Estate Professionals,UK,8,0,2,2,Future
+REP2,Real Estate Professionals,UAE,10,5,12,7,Future
+REP3,Real Estate Professionals,India,8,3,9,6,Future
+REP4,Real Estate Professionals,UK,13,5,9,4,Future
+REP5,Real Estate Professionals,UAE,14,1,8,7,Future
+REP6,Real Estate Professionals,UK,8,2,9,7,Future
+REP7,Real Estate Professionals,UAE,5,0,3,3,Future
+REP8,Real Estate Professionals,India,7,1,6,5,Future
+REP9,Real Estate Professionals,UAE,5,2,3,1,Future
+CCU1,Cryptocurrency Users,India,5,1,4,3,Suggestions
+CCU10,Cryptocurrency Users,India,4,0,3,3,Suggestions
+CCU2,Cryptocurrency Users,UK,5,0,1,1,Suggestions
+CCU3,Cryptocurrency Users,UAE,3,1,3,2,Suggestions
+CCU4,Cryptocurrency Users,India,3,0,3,3,Suggestions
+CCU5,Cryptocurrency Users,UK,8,1,3,2,Suggestions
+CCU6,Cryptocurrency Users,UAE,5,0,2,2,Suggestions
+CCU7,Cryptocurrency Users,India,5,0,5,5,Suggestions
+CCU8,Cryptocurrency Users,UK,5,0,2,2,Suggestions
+CCU9,Cryptocurrency Users,UAE,5,2,4,2,Suggestions
+REP1,Real Estate Professionals,India,7,4,14,10,Suggestions
+REP10,Real Estate Professionals,UK,8,1,2,1,Suggestions
+REP2,Real Estate Professionals,UAE,-2,3,3,0,Suggestions
+REP3,Real Estate Professionals,India,10,1,8,7,Suggestions
+REP4,Real Estate Professionals,UK,5,6,7,1,Suggestions
+REP5,Real Estate Professionals,UAE,2,2,5,3,Suggestions
+REP6,Real Estate Professionals,UK,11,0,7,7,Suggestions
+REP7,Real Estate Professionals,UAE,4,0,2,2,Suggestions
+REP8,Real Estate Professionals,India,3,0,2,2,Suggestions
+REP9,Real Estate Professionals,UAE,5,1,2,1,Suggestions
