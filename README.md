@@ -30,3 +30,19 @@ source('scripts/part2_sentiment_analysis.R')
 **Stack:** R (tidyverse, tidytext, ggplot2, readr, dplyr, stringr, forcats, tidyr)
 
 > This project shows mixed‑method analysis (qualitative + quantitative), practical stakeholder insights, and clear visual communication.
+
+## Visual Highlights
+
+**Comparison of mental models (Users vs Professionals)**  
+![Mental Models](results/mental_models.png)
+
+**Key Themes**  
+![Benefits](results/benefits.png)  
+![Risks](results/risks.png)  
+![Trust](results/trust.png)  
+![Regulations](results/regulations.png)  
+![Future](results/future.png)  
+![Suggestions](results/suggestions.png)
+
+**Sentiment Words**  
+![Top sentiment words](results/sentiment_words.png)
